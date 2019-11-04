@@ -3,7 +3,7 @@
  */
 // % color=#0b9630 icon="\f188" block="Turtle"
 // groups=['Control', 'Parameters', 'Other']
-namespace turtleBot {
+namespace turtle {
     let patterns = [[1, 0, 1, 0], [0, 1, 1, 0], [0, 1, 0, 1], [1, 0, 0, 1]]
     let pattern: boolean[] = []
     let steps = 0
