@@ -1,0 +1,16 @@
+{
+    "name": "ItsyTurtleM4",
+    "dependencies": {
+        "adafruit-itsybitsy-m4-express": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "tsprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
